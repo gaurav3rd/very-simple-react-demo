@@ -1,3 +1,8 @@
+/**
+ * babel allows you to write JSX syntax
+ */
+
+
 // Corrected the function and moved code outside
 function createButton() {
     const [isLiked, setLike] = React.useState(false);
